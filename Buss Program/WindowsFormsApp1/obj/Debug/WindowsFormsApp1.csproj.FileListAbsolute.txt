@@ -1,0 +1,42 @@
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.buyTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.startScreen.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.buyTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sellTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.startScreen.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.viewTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.buyTicket2.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.genderControl.resources
+C:\Users\Windows10ForCAndC#\Desktop\C#Form\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.buyTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.buyTicket2.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.genderControl.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sellTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.startScreen.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.viewTicket.resources
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Windows10ForCAndC#\Desktop\Finish\Buss Program\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
